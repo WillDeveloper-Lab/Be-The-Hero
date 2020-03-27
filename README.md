@@ -1,15 +1,17 @@
 <h1 align="center">
-    <img alt="Be The Hero" src="github/logo.svg" width="250px" />
+    <img alt="Be The Hero" src="github/logo.svg" width="450px" />
 </h1>
-<h2 align="center">
-    <img alt="Be The Hero" src="github/web.jpeg" width="250px" />
-</h2>
+
+## 🔖 Layout
+<p><img alt="Be The Hero" src="github/web.jpeg"    width="250px" />
+<img alt="Be The Hero" src="github/mobile.jfif"  align="right"  width="250px" /></p>
+
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
 App desenvolvido durante a semna OmniStack11, uma iniciativa da RocketSeat para ajudar programadores a aprender novas tecnologias para o desenvolvimento web.
 
-## :rocket: Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
