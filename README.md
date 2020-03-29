@@ -3,8 +3,8 @@
 </h1>
 
 ## 🔖 Layout
-<p><img alt="Be The Hero" src="github/web.jpeg"    width="250px" />
-<img alt="Be The Hero" src="github/mobile.jfif"  align="right"  width="250px" /></p>
+<p><img alt="Be The Hero" src="github/web.jpeg"    width="320px" height="300px" />
+<img alt="Be The Hero" src="github/mobile.jfif"  align="right"  width="280px" height="320px" /></p>
 
 <h4 align="center">
   🚀 Semana OmniStack 11.0
