@@ -45,10 +45,10 @@ export default function NewIncident(){
                 </section>
                 <form onSubmit={handleNewIncident}> 
                     <input type="text" placeholder="Titulo do caso" value={title} onChange = {e => setTitle(e.target.value)}/>
-                    <textarea placeholder="Descrição"/>
-                    <input type="text" placeholder="Valor em reais" value={description} onChange = {e => setDescription(e.target.value)}/>
+                    <textarea placeholder="Descrição" value={description} onChange = {e => setDescription(e.target.value)}/>
+                    <input type="text" placeholder="Valor em reais" value={value} onChange = {e => setValue(e.target.value)}/>
 
-                    <button className="button" type="submit"value={value} onChange = {e => setValue(e.target.value)}>Cadastar</button>
+                    <button className="button" type="submit">Cadastar</button>
                 </form>
             </div>
         </div>
